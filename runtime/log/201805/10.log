@@ -1,0 +1,4058 @@
+---------------------------------------------------------------
+[ 2018-05-10T13:35:36+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：1.078600s][吞吐率：0.93req/s] [内存消耗：1,883.09kb] [文件加载：53]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+[D:\project\base\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-05-10T13:40:02+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.039371s][吞吐率：25.40req/s] [内存消耗：1,883.26kb] [文件加载：53]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'jcb_cms'[D:\project\base\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-05-10T13:40:03+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.035753s][吞吐率：27.97req/s] [内存消耗：1,883.26kb] [文件加载：53]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1049]SQLSTATE[HY000] [1049] Unknown database 'jcb_cms'[D:\project\base\thinkphp\library\think\db\Connection.php:293]
+---------------------------------------------------------------
+[ 2018-05-10T13:45:02+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.043499s][吞吐率：22.99req/s] [内存消耗：1,938.55kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000861s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013955s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000589s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:45:03+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.050685s][吞吐率：19.73req/s] [内存消耗：1,938.55kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010153s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015027s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000371s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:45:04+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.050921s][吞吐率：19.64req/s] [内存消耗：1,938.55kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009936s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015256s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000374s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:45:05+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.047442s][吞吐率：21.08req/s] [内存消耗：1,938.55kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010267s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.011850s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000360s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:46:18+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.048855s][吞吐率：20.47req/s] [内存消耗：1,938.79kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010139s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012661s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000461s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:46:52+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.051039s][吞吐率：19.59req/s] [内存消耗：1,938.79kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010226s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015079s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000371s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:48:38+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.053594s][吞吐率：18.66req/s] [内存消耗：1,938.55kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011079s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014066s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000380s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:57:11+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.052011s][吞吐率：19.23req/s] [内存消耗：1,938.48kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000953s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015462s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000408s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:57:23+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.050085s][吞吐率：19.97req/s] [内存消耗：1,938.02kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009865s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014342s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000375s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:58:34+08:00 ] 0.0.0.0 127.0.0.1 GET /admin//index/index
+[ info ] 127.0.0.1:88/admin//index/index [运行时间：0.051219s][吞吐率：19.52req/s] [内存消耗：2,089.77kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009810s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.011701s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000303s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:58:50+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.057291s][吞吐率：17.45req/s] [内存消耗：2,196.03kb] [文件加载：57]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010379s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015022s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000414s ]
+---------------------------------------------------------------
+[ 2018-05-10T13:59:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.073555s][吞吐率：13.60req/s] [内存消耗：1,938.09kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011931s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.021338s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000354s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:07+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.052464s][吞吐率：19.06req/s] [内存消耗：1,938.50kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009745s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013687s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000476s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:08+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.048717s][吞吐率：20.53req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010200s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012845s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000411s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:09+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.049298s][吞吐率：20.28req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010597s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012044s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000344s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:09+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.049800s][吞吐率：20.08req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009675s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014519s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000366s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:09+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.049749s][吞吐率：20.10req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010525s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012318s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000350s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:09+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.049488s][吞吐率：20.21req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009874s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013876s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000377s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:09+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.051319s][吞吐率：19.49req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009819s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015447s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000379s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:00:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.051748s][吞吐率：19.32req/s] [内存消耗：1,938.73kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009785s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014829s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000304s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:01:31+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050366s][吞吐率：19.85req/s] [内存消耗：1,938.83kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009631s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014175s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000518s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:01:52+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.042727s][吞吐率：23.40req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000883s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014184s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000397s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:01:52+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050182s][吞吐率：19.93req/s] [内存消耗：1,939.41kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010522s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013830s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000319s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:01:53+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.049910s][吞吐率：20.04req/s] [内存消耗：1,939.41kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010124s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014416s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000385s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:02:11+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.052203s][吞吐率：19.16req/s] [内存消耗：1,939.41kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010434s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014069s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000370s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:02:12+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.049915s][吞吐率：20.03req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009930s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014389s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000378s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:02:13+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050184s][吞吐率：19.93req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009744s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014967s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000310s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:08+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.047523s][吞吐率：21.04req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009939s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012212s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000359s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:09+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050955s][吞吐率：19.63req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010057s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014989s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000348s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.049218s][吞吐率：20.32req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010202s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013035s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000451s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.051518s][吞吐率：19.41req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010259s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014906s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000349s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050267s][吞吐率：19.89req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009696s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014919s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000416s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.052265s][吞吐率：19.13req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009909s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015762s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000370s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:10+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050767s][吞吐率：19.70req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009750s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015307s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000292s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:11+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050033s][吞吐率：19.99req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010280s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014213s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000310s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:12+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.056224s][吞吐率：17.79req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011421s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013451s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000351s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:04:37+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/cesi
+[ info ] 127.0.0.1:88/index/index/cesi [运行时间：0.050383s][吞吐率：19.85req/s] [内存消耗：1,939.23kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010379s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014413s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000381s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:06:56+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/logo/index
+[ info ] 127.0.0.1:88/admin/logo/index [运行时间：0.020067s][吞吐率：49.83req/s] [内存消耗：1,196.59kb] [文件加载：41]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'logo',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-10T14:07:45+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.053072s][吞吐率：18.84req/s] [内存消耗：2,070.77kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009737s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014083s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000384s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:09:28+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.059280s][吞吐率：16.87req/s] [内存消耗：2,068.19kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010994s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012331s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000344s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:11:19+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.054388s][吞吐率：18.39req/s] [内存消耗：2,068.19kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009755s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014375s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000327s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:11:20+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.047498s][吞吐率：21.05req/s] [内存消耗：2,068.19kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000713s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015569s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000315s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:12:40+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.059561s][吞吐率：16.79req/s] [内存消耗：2,071.18kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010214s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013435s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000408s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:12:41+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.048561s][吞吐率：20.59req/s] [内存消耗：2,071.18kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000651s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014252s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000372s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:12:52+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.052753s][吞吐率：18.96req/s] [内存消耗：2,071.21kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010486s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015410s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000376s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:17:05+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.059063s][吞吐率：16.93req/s] [内存消耗：2,067.95kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011257s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014052s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000353s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:23:11+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.047061s][吞吐率：21.25req/s] [内存消耗：1,939.29kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000985s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013278s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000377s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:23:21+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.051689s][吞吐率：19.35req/s] [内存消耗：2,070.77kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010073s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013796s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000448s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:23:30+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/bbb/bbb
+[ info ] 127.0.0.1:88/admin/bbb/bbb [运行时间：0.019664s][吞吐率：50.85req/s] [内存消耗：1,189.24kb] [文件加载：39]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'bbb',
+    2 => 'bbb',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Bbb->bbb[ D:\project\base\module\admin\controller\Bbb.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-10T14:25:04+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.059940s][吞吐率：16.68req/s] [内存消耗：2,071.18kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010371s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.011785s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000393s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:25:05+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.057752s][吞吐率：17.32req/s] [内存消耗：2,071.18kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010904s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012521s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000380s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:26:02+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/index/index
+[ info ] 127.0.0.1:88/admin/index/index [运行时间：0.057365s][吞吐率：17.43req/s] [内存消耗：2,089.76kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010145s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013359s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000334s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:26:18+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.051886s][吞吐率：19.27req/s] [内存消耗：2,070.77kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009834s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014370s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000324s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:26:23+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/index/index
+[ info ] 127.0.0.1:88/admin/index/index [运行时间：0.047715s][吞吐率：20.96req/s] [内存消耗：2,089.76kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000655s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.016352s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000290s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:27:15+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.052893s][吞吐率：18.91req/s] [内存消耗：2,070.77kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009667s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013628s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000378s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:27:15+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.052085s][吞吐率：19.20req/s] [内存消耗：2,070.77kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010608s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014027s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000415s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:27:47+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/idnex/index
+[ info ] 127.0.0.1:88/admin/idnex/index [运行时间：0.023980s][吞吐率：41.70req/s] [内存消耗：1,196.57kb] [文件加载：41]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'idnex',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-10T14:27:56+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/index/index
+[ info ] 127.0.0.1:88/admin/index/index [运行时间：0.052856s][吞吐率：18.92req/s] [内存消耗：2,089.73kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010813s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013988s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000382s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:27:56+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.064859s][吞吐率：15.42req/s] [内存消耗：2,070.75kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000816s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.022494s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000935s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:28:02+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/index/index
+[ info ] 127.0.0.1:88/admin/index/index [运行时间：0.063716s][吞吐率：15.69req/s] [内存消耗：2,089.73kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002213s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.022612s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000402s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:28:02+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.055703s][吞吐率：17.95req/s] [内存消耗：2,070.75kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000592s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.018010s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000300s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:28:03+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.069814s][吞吐率：14.32req/s] [内存消耗：2,070.75kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001025s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.029308s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000447s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:28:15+08:00 ] 0.0.0.0 127.0.0.1 POST /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.091493s][吞吐率：10.93req/s] [内存消耗：2,067.52kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'content-length' => '59',
+  'accept' => '*/*',
+  'origin' => 'http://127.0.0.1:88',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://127.0.0.1:88/admin/login/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'username' => '叶强',
+  'password' => '123456',
+  'rememberMe' => 'true',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000717s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.027172s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.018040s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `username` = '叶强' LIMIT 1 [ RunTime:0.000317s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:28:15+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/index/index
+[ info ] 127.0.0.1:88/admin/index/index [运行时间：0.161554s][吞吐率：6.19req/s] [内存消耗：2,302.30kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/login/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\project\base\module\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\index\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'menu',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001311s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.022613s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000334s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.023125s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000289s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.020532s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000298s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.024603s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|index|index' LIMIT 1 [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu` [ RunTime:0.019014s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu` WHERE  `isshow` = 1  AND `id` IN (1,2,3,4,5,9,10,11,12,19,17,8,18,6,14,15,16,7) ORDER BY sort asc [ RunTime:0.000422s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:28:16+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/index/main
+[ info ] 127.0.0.1:88/admin/index/main [运行时间：0.143545s][吞吐率：6.97req/s] [内存消耗：2,179.08kb] [文件加载：57]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'main',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->main[ D:\project\base\module\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\index\main.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'info',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003677s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.020519s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000303s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.017558s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000266s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.024629s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000931s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.015369s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|index|main' LIMIT 1 [ RunTime:0.000228s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:05+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/menu/index
+[ info ] 127.0.0.1:88/admin/menu/index [运行时间：0.131536s][吞吐率：7.60req/s] [内存消耗：2,322.91kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->index[ D:\project\base\module\admin\controller\Menu.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\menu\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'icos',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010039s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.017661s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.016357s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.016276s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014554s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|menu|index' LIMIT 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_ico` [ RunTime:0.014763s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_ico` ORDER BY id asc [ RunTime:0.000357s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:05+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/menu/menu_data?page=1&limit=1000
+[ info ] 127.0.0.1:88/admin/menu/menu_data?page=1&limit=1000 [运行时间：0.092587s][吞吐率：10.80req/s] [内存消耗：2,040.09kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menu_data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/menu/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '1000',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->menu_data[ D:\project\base\module\admin\controller\Menu.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002397s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.010967s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012826s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000271s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.012064s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.011943s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|menu|menu_data' LIMIT 1 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu` [ RunTime:0.011118s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu` ORDER BY sort asc [ RunTime:0.000281s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_menu` LIMIT 1 [ RunTime:0.000154s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:08+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/role/index
+[ info ] 127.0.0.1:88/admin/role/index [运行时间：0.105140s][吞吐率：9.51req/s] [内存消耗：2,245.31kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'role',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Role->index[ D:\project\base\module\admin\controller\Role.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\role\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000759s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.019127s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000420s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.015979s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000346s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.016108s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000241s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014276s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|role|index' LIMIT 1 [ RunTime:0.000290s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:08+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/role/role_data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/role/role_data?page=1&limit=12 [运行时间：0.081520s][吞吐率：12.27req/s] [内存消耗：2,057.84kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'role',
+    2 => 'role_data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/role/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Role->role_data[ D:\project\base\module\admin\controller\Role.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000602s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013181s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000323s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012513s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.011177s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000240s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.011792s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|role|role_data' LIMIT 1 [ RunTime:0.000282s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename`,`cstatus`,`sort`,`cmark` FROM `JCB_sys_menu_role` ORDER BY sort asc LIMIT 0,12 [ RunTime:0.000179s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_menu_role` LIMIT 1 [ RunTime:0.000139s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:09+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/index
+[ info ] 127.0.0.1:88/admin/member/index [运行时间：0.114967s][吞吐率：8.70req/s] [内存消耗：2,241.37kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->index[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010350s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.019042s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000376s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.015834s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000323s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015719s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014849s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|index' LIMIT 1 [ RunTime:0.000430s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:09+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/member/data?page=1&limit=12 [运行时间：0.088904s][吞吐率：11.25req/s] [内存消耗：2,055.66kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->data[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000592s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.016128s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000294s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012206s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000246s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.013629s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000289s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012775s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|data' LIMIT 1 [ RunTime:0.000277s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`nickname`,`avatar`,`cstatus`,`roleid`,roleid as rolename FROM `JCB_sys_member` ORDER BY id asc LIMIT 0,12 [ RunTime:0.000171s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename` FROM `JCB_sys_menu_role` [ RunTime:0.000140s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_member` LIMIT 1 [ RunTime:0.000141s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:21+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/system/args
+[ info ] 127.0.0.1:88/admin/system/args [运行时间：0.111833s][吞吐率：8.94req/s] [内存消耗：2,299.52kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'args',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\System->args[ D:\project\base\module\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\system\args.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002182s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.018674s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000428s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.017473s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000263s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015621s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000297s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.015772s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|system|args' LIMIT 1 [ RunTime:0.000234s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_config` ORDER BY sort asc [ RunTime:0.000271s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:54+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/databackup/index
+[ info ] 127.0.0.1:88/admin/databackup/index [运行时间：0.117741s][吞吐率：8.49req/s] [内存消耗：2,327.08kb] [文件加载：61]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'databackup',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Databackup->index[ D:\project\base\module\admin\controller\Databackup.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\databackup\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'list',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009860s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.019182s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000426s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.016209s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000377s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015639s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000378s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014847s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|databackup|index' LIMIT 1 [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SHOW TABLE STATUS [ RunTime:0.001246s ]
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given[D:\project\base\extend\databackup\Backup.php:431]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:54+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/databackup/data?page=1&limit=1000
+[ info ] 127.0.0.1:88/admin/databackup/data?page=1&limit=1000 [运行时间：0.084991s][吞吐率：11.77req/s] [内存消耗：2,134.05kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'databackup',
+    2 => 'data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/databackup/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '1000',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Databackup->data[ D:\project\base\module\admin\controller\Databackup.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000635s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015693s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000272s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.014557s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000244s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.013124s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000309s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.011194s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|databackup|data' LIMIT 1 [ RunTime:0.000238s ]
+[ sql ] [ SQL ] SHOW TABLE STATUS [ RunTime:0.000950s ]
+[ error ] [2]gzclose() expects parameter 1 to be resource, null given[D:\project\base\extend\databackup\Backup.php:431]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:58+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/system/index
+[ info ] 127.0.0.1:88/admin/system/index [运行时间：0.105853s][吞吐率：9.45req/s] [内存消耗：2,277.35kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\System->index[ D:\project\base\module\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\system\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001045s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.018703s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000560s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.015621s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000300s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015675s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000282s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014406s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|system|index' LIMIT 1 [ RunTime:0.000291s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_config` WHERE  `ishide` = 0 [ RunTime:0.000226s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:58+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/system/args
+[ info ] 127.0.0.1:88/admin/system/args [运行时间：0.103168s][吞吐率：9.69req/s] [内存消耗：2,154.46kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'system',
+    2 => 'args',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\System->args[ D:\project\base\module\admin\controller\System.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\system\args.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000884s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.018643s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000942s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.016013s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.016611s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000299s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014797s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|system|args' LIMIT 1 [ RunTime:0.000436s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_config` ORDER BY sort asc [ RunTime:0.000288s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:59+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/index
+[ info ] 127.0.0.1:88/admin/member/index [运行时间：0.116315s][吞吐率：8.60req/s] [内存消耗：2,109.83kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->index[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010327s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.023728s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000488s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.015025s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.001024s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.013629s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012937s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|index' LIMIT 1 [ RunTime:0.000273s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:33:59+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/member/data?page=1&limit=12 [运行时间：0.082132s][吞吐率：12.18req/s] [内存消耗：2,055.66kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->data[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001436s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.011888s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000337s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012111s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000265s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.013625s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000238s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.011970s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|data' LIMIT 1 [ RunTime:0.000284s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`nickname`,`avatar`,`cstatus`,`roleid`,roleid as rolename FROM `JCB_sys_member` ORDER BY id asc LIMIT 0,12 [ RunTime:0.000190s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename` FROM `JCB_sys_menu_role` [ RunTime:0.000145s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_member` LIMIT 1 [ RunTime:0.000165s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:34:00+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/role/index
+[ info ] 127.0.0.1:88/admin/role/index [运行时间：0.101220s][吞吐率：9.88req/s] [内存消耗：2,113.22kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'role',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Role->index[ D:\project\base\module\admin\controller\Role.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\role\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000749s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.019940s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.001023s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.017353s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015691s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.013357s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|role|index' LIMIT 1 [ RunTime:0.000423s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:34:00+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/role/role_data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/role/role_data?page=1&limit=12 [运行时间：0.097399s][吞吐率：10.27req/s] [内存消耗：2,057.84kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'role',
+    2 => 'role_data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/role/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Role->role_data[ D:\project\base\module\admin\controller\Role.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010636s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014336s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000256s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.014146s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.012747s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000255s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.013530s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|role|role_data' LIMIT 1 [ RunTime:0.000244s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename`,`cstatus`,`sort`,`cmark` FROM `JCB_sys_menu_role` ORDER BY sort asc LIMIT 0,12 [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_menu_role` LIMIT 1 [ RunTime:0.000140s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:34:17+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/role/action_set?id=3
+[ info ] 127.0.0.1:88/admin/role/action_set?id=3 [运行时间：0.095204s][吞吐率：10.50req/s] [内存消耗：2,120.98kb] [文件加载：59]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'role',
+    2 => 'action_set',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/role/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Role->action_set[ D:\project\base\module\admin\controller\Role.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010344s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013274s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000361s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.013211s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000380s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.011640s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000318s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.013321s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|role|action_set' LIMIT 1 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SELECT `action` FROM `JCB_sys_action_role` WHERE  `roleid` = 3 [ RunTime:0.000259s ]
+[ error ] [8]未定义数组下标: 3[D:\project\base\module\admin\controller\Role.php:26]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:22+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/index
+[ info ] 127.0.0.1:88/admin/member/index [运行时间：0.116082s][吞吐率：8.61req/s] [内存消耗：2,109.83kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->index[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011450s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.018612s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000449s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.015985s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.016097s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.015052s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|index' LIMIT 1 [ RunTime:0.000350s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:23+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/member/data?page=1&limit=12 [运行时间：0.085501s][吞吐率：11.70req/s] [内存消耗：2,055.66kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->data[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000681s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013984s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000298s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.013627s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000311s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.012541s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012411s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|data' LIMIT 1 [ RunTime:0.000257s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`nickname`,`avatar`,`cstatus`,`roleid`,roleid as rolename FROM `JCB_sys_member` ORDER BY id asc LIMIT 0,12 [ RunTime:0.000175s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename` FROM `JCB_sys_menu_role` [ RunTime:0.000136s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_member` LIMIT 1 [ RunTime:0.000132s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:26+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/add
+[ info ] 127.0.0.1:88/admin/member/add [运行时间：0.102452s][吞吐率：9.76req/s] [内存消耗：2,244.40kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->add[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\add.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'roles',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010793s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012654s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000402s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012733s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000341s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015354s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.016520s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|add' LIMIT 1 [ RunTime:0.000399s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` [ RunTime:0.000306s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:28+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/index
+[ info ] 127.0.0.1:88/admin/member/index [运行时间：0.092935s][吞吐率：10.76req/s] [内存消耗：2,109.83kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->index[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009931s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012680s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000428s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.013186s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.013002s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012309s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|index' LIMIT 1 [ RunTime:0.000306s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:28+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/member/data?page=1&limit=12 [运行时间：0.095284s][吞吐率：10.49req/s] [内存消耗：2,055.66kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->data[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000575s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.017684s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.001540s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012375s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000280s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.012519s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012219s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|data' LIMIT 1 [ RunTime:0.000248s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`nickname`,`avatar`,`cstatus`,`roleid`,roleid as rolename FROM `JCB_sys_member` ORDER BY id asc LIMIT 0,12 [ RunTime:0.000169s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename` FROM `JCB_sys_menu_role` [ RunTime:0.000134s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_member` LIMIT 1 [ RunTime:0.000126s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:39+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/modfiy?id=3
+[ info ] 127.0.0.1:88/admin/member/modfiy?id=3 [运行时间：0.086368s][吞吐率：11.58req/s] [内存消耗：2,248.24kb] [文件加载：58]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'modfiy',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'id' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->modfiy[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\modfiy.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'u',
+  3 => 'roles',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000733s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013329s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012784s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.012342s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012410s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|modfiy' LIMIT 1 [ RunTime:0.000281s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` [ RunTime:0.000212s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000222s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:56+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/menu/index
+[ info ] 127.0.0.1:88/admin/menu/index [运行时间：0.125996s][吞吐率：7.94req/s] [内存消耗：2,167.84kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->index[ D:\project\base\module\admin\controller\Menu.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\menu\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+  2 => 'icos',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010535s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.017770s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000396s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.016071s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.015731s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.014442s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|menu|index' LIMIT 1 [ RunTime:0.000281s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_ico` [ RunTime:0.014868s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_ico` ORDER BY id asc [ RunTime:0.000482s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:36:57+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/menu/menu_data?page=1&limit=1000
+[ info ] 127.0.0.1:88/admin/menu/menu_data?page=1&limit=1000 [运行时间：0.097370s][吞吐率：10.27req/s] [内存消耗：2,040.09kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menu_data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/menu/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '1000',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Menu->menu_data[ D:\project\base\module\admin\controller\Menu.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000591s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015320s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000249s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.012818s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000241s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.014164s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000261s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.012303s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|menu|menu_data' LIMIT 1 [ RunTime:0.000246s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu` [ RunTime:0.011829s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu` ORDER BY sort asc [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_menu` LIMIT 1 [ RunTime:0.000275s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:37:08+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/index
+[ info ] 127.0.0.1:88/admin/member/index [运行时间：0.117100s][吞吐率：8.54req/s] [内存消耗：2,109.83kb] [文件加载：56]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1:88/admin/index/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->index[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\member\index.html [ array (
+  0 => 'config',
+  1 => 'member',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010401s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.022432s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.017525s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.017231s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000261s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.015160s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|index' LIMIT 1 [ RunTime:0.000258s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:37:09+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/member/data?page=1&limit=12
+[ info ] 127.0.0.1:88/admin/member/data?page=1&limit=12 [运行时间：0.084884s][吞吐率：11.78req/s] [内存消耗：2,055.66kb] [文件加载：54]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'member',
+    2 => 'data',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'referer' => 'http://127.0.0.1:88/admin/member/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '12',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Member->data[ D:\project\base\module\admin\controller\Member.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000566s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015161s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_member` [ RunTime:0.014283s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_member` WHERE  `id` = 3 LIMIT 1 [ RunTime:0.000271s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_menu_role` [ RunTime:0.013183s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_menu_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000245s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_action_role` [ RunTime:0.011639s ]
+[ sql ] [ SQL ] SELECT * FROM `JCB_sys_action_role` WHERE  `roleid` = 1  AND `action` = 'admin|member|data' LIMIT 1 [ RunTime:0.000271s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`nickname`,`avatar`,`cstatus`,`roleid`,roleid as rolename FROM `JCB_sys_member` ORDER BY id asc LIMIT 0,12 [ RunTime:0.000170s ]
+[ sql ] [ SQL ] SELECT `id`,`rolename` FROM `JCB_sys_menu_role` [ RunTime:0.000137s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `JCB_sys_member` LIMIT 1 [ RunTime:0.000137s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:41:19+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.059500s][吞吐率：16.81req/s] [内存消耗：1,938.54kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011079s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015145s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000356s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:41:46+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.052254s][吞吐率：19.14req/s] [内存消耗：1,938.87kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009769s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015952s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000401s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:41:46+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.051186s][吞吐率：19.54req/s] [内存消耗：1,938.87kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010321s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015398s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000348s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:41:47+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.052180s][吞吐率：19.16req/s] [内存消耗：1,938.87kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009947s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.015459s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000404s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:06+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.041015s][吞吐率：24.38req/s] [内存消耗：1,938.88kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000766s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014074s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000431s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:06+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.041471s][吞吐率：24.11req/s] [内存消耗：1,938.88kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000787s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013803s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:07+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.053630s][吞吐率：18.65req/s] [内存消耗：1,938.88kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010612s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.016055s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000371s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:07+08:00 ] 0.0.0.0 127.0.0.1 GET /
+[ info ] 127.0.0.1:88/ [运行时间：0.052129s][吞吐率：19.18req/s] [内存消耗：1,938.88kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009917s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.016356s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000360s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:13+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.057148s][吞吐率：17.50req/s] [内存消耗：1,938.01kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010422s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013347s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000456s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:49+08:00 ] 0.0.0.0 127.0.0.1 GET /admin/login/index
+[ info ] 127.0.0.1:88/admin/login/index [运行时间：0.055085s][吞吐率：18.15req/s] [内存消耗：2,071.30kb] [文件加载：55]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ D:\project\base\module\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\project\base\public/../module/admin\view\login\index.html [ array (
+  0 => 'config',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010169s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.017123s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000600s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:42:55+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.054897s][吞吐率：18.22req/s] [内存消耗：1,938.01kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009904s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012791s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000460s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:50:03+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.042950s][吞吐率：23.28req/s] [内存消耗：1,938.48kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000950s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.013654s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000492s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:53:05+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.055264s][吞吐率：18.09req/s] [内存消耗：1,938.47kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010235s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.016906s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000495s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:53:06+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.050331s][吞吐率：19.87req/s] [内存消耗：1,938.47kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010331s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014319s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:53:07+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.049348s][吞吐率：20.26req/s] [内存消耗：1,938.47kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010374s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012998s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000433s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:53:07+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.048811s][吞吐率：20.49req/s] [内存消耗：1,938.47kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010511s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.012343s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000394s ]
+---------------------------------------------------------------
+[ 2018-05-10T14:53:07+08:00 ] 0.0.0.0 127.0.0.1 GET /index/index/e
+[ info ] 127.0.0.1:88/index/index/e [运行时间：0.049289s][吞吐率：20.29req/s] [内存消耗：1,938.47kb] [文件加载：52]
+[ info ] [ LANG ] D:\project\base\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 'index/index/index',
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:88',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=gtf770psivr7kogodkinfsvf55',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\project\base\module\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009734s ] mysql:host=127.0.0.1;port=3306;dbname=JCB_CMS;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `JCB_sys_config` [ RunTime:0.014396s ]
+[ sql ] [ SQL ] SELECT `key`,`val` FROM `JCB_sys_config` WHERE  `ishead` = 0 [ RunTime:0.000377s ]
